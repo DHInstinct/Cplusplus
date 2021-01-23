@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\danie\source\repos\CIT 236 Assignment 6\CIT 236 Assignment 6\main.cpp(29,10): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\source\repos\CIT 236 Assignment 6\CIT 236 Assignment 6\main.cpp(56): warning C4715:  'ReturnLargest<int,int,int>': not all control paths return a value
+C:\Users\danie\source\repos\CIT 236 Assignment 6\CIT 236 Assignment 6\main.cpp(56): warning C4715:  'ReturnLargest<double,double,double>': not all control paths return a value
+C:\Users\danie\source\repos\CIT 236 Assignment 6\CIT 236 Assignment 6\main.cpp(56): warning C4715:  'ReturnLargest<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+  CIT 236 Assignment 6.vcxproj -> C:\Users\danie\source\repos\CIT 236 Assignment 6\Debug\CIT 236 Assignment 6.exe

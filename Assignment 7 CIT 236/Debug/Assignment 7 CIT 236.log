@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\danie\source\repos\Assignment 7 CIT 236\Assignment 7 CIT 236\Lottery.h(75,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\Assignment 7 CIT 236\Assignment 7 CIT 236\Lottery.h(117,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\Assignment 7 CIT 236\Assignment 7 CIT 236\Lottery.h(124,20): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\danie\source\repos\Assignment 7 CIT 236\Assignment 7 CIT 236\main.cpp(21,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 7 CIT 236.vcxproj -> C:\Users\danie\source\repos\Assignment 7 CIT 236\Debug\Assignment 7 CIT 236.exe
