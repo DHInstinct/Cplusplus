@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\danie\source\repos\Assignment 1 CIT 236\Assignment 1 CIT 236\main.cpp(34,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\Assignment 1 CIT 236\Assignment 1 CIT 236\main.cpp(51,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\Assignment 1 CIT 236\Assignment 1 CIT 236\main.cpp(68,11): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 1 CIT 236.vcxproj -> C:\Users\danie\source\repos\Assignment 1 CIT 236\Debug\Assignment 1 CIT 236.exe
