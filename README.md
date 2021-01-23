@@ -1,6 +1,6 @@
-# Cplusplus
+# DSA
 
-Uploading most of my C++ assignments I have completed during my undergrad.
+Uploading most of my DSA assignments I have completed during my undergrad.
 
 ----------------------
         1/23/21
